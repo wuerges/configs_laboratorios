@@ -1,2 +1,5 @@
-# configs_laboratorios
-Scripts uteis para o dia a dia
+# Scripts diversos para os labs da UFFS
+
+- xrandr.sh
+
+Configura os monitores do linux em modo clone com o projetor.
